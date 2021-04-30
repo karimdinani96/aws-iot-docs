@@ -76,7 +76,7 @@ If this command gives an error: `Python was not found`, it might be because your
    In macOS and Linux, the *home* directory is `~`\.
 
    ```
-   cd ~ git clone https://github.com/aws/aws-iot-device-sdk-python-v2.git
+   cd ~ && git clone https://github.com/aws/aws-iot-device-sdk-python-v2.git
    ```
 
 ------
